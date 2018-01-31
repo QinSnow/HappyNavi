@@ -1,0 +1,4 @@
+devMode = true
+jdbcUrl = jdbc:mysql://219.218.118.175:9816/travel?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false
+user = root
+password = sducs18_9b5ea66a2f
