@@ -9,6 +9,7 @@ public class TestRoutes extends Routes {
 	@Override
 	public void config() {
 		// TODO Auto-generated method stub
+		// 注释
 		add("/hello", HelloController.class);
 	}
 
